@@ -13,7 +13,7 @@
 - License
 
 ### Usage
-You can Grab a compiled version of Resample++ in the Releases Section!
+You can Grab a compiled version of Resample++ in the [Releases](https://github.com/BeyYT/resample-plusplus/releases) Section!
 
 ### Building
 ###### to build this project, you will need Python 3.7.9 and PySimpleGUI `pip install PySimpleGUI`
